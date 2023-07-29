@@ -17,7 +17,7 @@ To get started with the terraform project, follow these steps:
 1. Clone this repository to your local machine:
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/Pk8753/Terraform_Auto_VM_Creation_In_GCP.git
 cd Terraform_Automation_To_Create_VM_In_GCP
 ```
 
